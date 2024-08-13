@@ -1,0 +1,135 @@
+PrivacyPolicy
+
+We offer a variety of online and mobile games. Our Privacy Policy applies whenever you use our “Services,” which means our games, products, services, content, and/or other domains or websites operated by us. It describes the ways we use your information and your rights and choices concerning your information.
+
+This privacy policy explains how we collect and process your personal data when you access and use our APP applications and services.
+
+1. Consent to Policy
+
+By installing and using the application, you consent to this Privacy Policy and the collection, use and sharing of the personal data described in this Policy. If you do not agree, do not install the application or use the application.
+
+2. Information and Data we collect from you
+
+We collect and process the following personal data and information when you using our applications and services:
+
+Data automatically collected from applications
+
+your device type and model, manufacturer, operating system platform and version, general location (region, country, city, etc), application version, start and end of advertisement browsing, game play status (stage start, end, and operation information)
+
+Information you provide when contacting us
+
+Contact information such as your name and email address, and any other information we need to provide support
+
+Data obtained from advertising partners
+
+We may obtain personal information about you from third-party advertising partners, depending on the permission you give to the partner.
+
+Collecting of special categories of personal data
+
+3. Scope of Policy
+
+The scope of this Privacy Policy is limited to the personal data collected by you using our applications and services.
+
+This application may contain links to external sites. Clicking on a third-party link will redirect you to that site. Please note that we have no control and responsibility for the content and Privacy Policies of third-party sites or services.
+
+4. Purpose and Legal basis for use of information
+
+4.1 How we use your information
+
+We collect and use your data and information for the following purposes.
+
+Provision and improvement of game services
+
+We use your personal data to distribute applications and provide gaming services, and to improve our services.
+
+In order to properly provide game services, it is necessary to collect, record and use information such as game progress.
+
+We use your information to analyze your personal data and to correct game glitches, improve stability, and develop new services to provide you with a better experience.
+
+We also use the information when sending notifications, including app updates, support and management messages.
+
+4.2 Legal Basis
+
+We collect and use personal data of users subject to GDPR or the equivalents on the following legal basis:
+
+Performance of contractual obligations
+
+You must use your information to fulfill your obligations under your contract (to provide the services you request, improve our services, and provide customer support).
+
+Consent
+
+You have provided us with your consent to use personal data and information for specific purposes.
+
+This applies to information displayed within the application that is personalized to your preferences and to which information is shared with advertising partners for that purpose. This consent can be withdrawn at any time.
+
+Legal obligations
+
+We collect and process your personal data where necessary to comply with the legal obligations we follow.
+
+We use your personal data to analyze, track and prevent fraud, notify, cross-promote and advertise to provide you with free or low-cost services, improve our services and improve your data Special attention can be paid to the right to protection.
+
+5. Sharing your Information
+
+We may share the your information with partners for the purposes described above.
+
+The privacy policies of each partner are listed in the "Partner List" section.
+
+We may disclose your information in response to law, legal process, lawsuits, and the demands of public and governmental authorities inside and outside your country of residence.
+
+We may disclose your information to public authorities if we believe necessary to protect and challenge the legal rights of us, our customers and partners, and to exercise our legal rights in accordance with relevant laws.
+
+We will not notify you of such disclosures unless required by law.
+
+6. Security of personal information
+
+Personal Data is any information relating to a live identified natural person or an identifiable natural person who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his identity.
+
+When you browse the Company’s Services, the Company may collect information regarding the domain and host from which you access the Internet, the Internet Protocol addresses of the computer or Internet Service Provider you are using, and anonymous site statistical data. This information is collected for the purpose of assessing the effectiveness of the company’s Service and for security reasons.
+
+We always make every effort to protect your personal information, but we do not guarantee or represent that your information is fully protected.
+
+7. Rights of users under GDPR or the equivalents
+
+If you are under GDPR or the equivalents, you have the following rights regarding the processing of personal data:
+
+When you exercise the following rights, you can send a request to the contacts listed in the "Contacts" section.
+
+We may ask you to provide certain information in order to identify and correct your data.
+
+Right to withdraw consent
+
+You have the right to withdraw your consent at any time in accordance with Article 7(3), paragraph 3 of the GDPR.
+
+If you wish to withdraw your consent, please contact us at the address specified in this policy to withdraw your consent. The withdrawal of this consent cannot affect the legality of the treatment based on the consent before the withdrawal.
+
+If you withdraw your consent, you will not be able to continue using the applications and services.
+
+Any consent given by the user to the use of personal data can be freely revoked by the user at any time with effect for the future.
+
+However, if your personal data is legitimately used to provide our services and for other purposes, we may reject your request or ask you to postpone the response.
+
+Right to data portability
+
+In accordance with Article 20 of the GDPR, you shall have the right to receive the personal data which you have provided to us, in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller without hindrance from us to which the personal data have been provided.
+
+And you have the right to have the personal data transmitted directly from us to another, where technically feasible.
+
+Right to lodge a complaint with a supervisory authority
+
+Transferring of your personal data
+
+We may transfer and process your personal data from your country or region of residence to Japan and other countries around the world. We may share your information with international organizations as partner. Please note that these countries and jurisdictions may not have the same data protection laws as your country.
+
+8. Data retention period
+
+We store and process your information on our servers, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with the applicable law. 
+
+We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to information only for those employees who require it to fulfill their job responsibilities. The Company shall inform its subscribers in the case that their personal data is legally transferred to third parties.
+
+The subscribers are obliged to protect all the confidential data that are granted to them. Access codes and secret codes are strictly personal and the Company shall not be responsible in case of loss or theft. In case of loss or theft of the above codes, the subscribers are obliged to inform the Company as soon as possible.
+
+We will retain your information for as long as necessary to provide the service, unless required by law or unless we accept your request to delete the information.
+
+9. Contact Us
+
+Emailing address: yjiahui0706@163.com.
